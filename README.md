@@ -1,8 +1,12 @@
 ### Hi there 👋
-hii, I am ajay and I am curruntly pursuing my masters from IIT delhi in CSE.
+ I am ajay :raising_hand_man: and I am curruntly pursuing my masters from IIT delhi in CSE.
 
 <!--
 **Ajayksoni98/Ajayksoni98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Connect with Me 🤝🏻
+
+[![Linkedln](Linkedln](https://www.linkedin.com/in/ajay-kumar-soni-184336136/)
 
 Here are some ideas to get you started:
 
